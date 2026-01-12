@@ -1,0 +1,1 @@
+cache: A place where data goes to be wrong, faster.
