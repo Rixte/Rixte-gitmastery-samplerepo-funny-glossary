@@ -1,0 +1,1 @@
+exception: The program screaming, but in an object-oriented way.
